@@ -7,7 +7,11 @@ An import statement would only run A, but we want to run the two files in parall
 
 # Code style
 4 spaces in-between classes.
+
 2 spaces in-between functions.
+
 Function names in snake_case.
+
 Variable names in camelCase.
+
 Class names in PascalCase.
