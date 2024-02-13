@@ -1,5 +1,7 @@
 # What is CommuniCats?
-CommuniCats is an easy to use IPC (Inter Process Communication) framework. 
+CommuniCats is an easy to use IPC (Inter Process Communication) framework.
+
+FYI, CommuniCats is under the GNU GPL 3.0 License.
 
 # What is IPC?
 IPC is a method to communicate variables between different processes. For example, A has a variable x. B needs to know x, but x changes over time in A.
