@@ -8,7 +8,7 @@ IPC is a method to communicate variables between different processes. For exampl
 An import statement would only run A, but we want to run the two files in parallel. With an IPC, we would make A send x to B when B needs x.
 
 # Dependencys
-The `pandas` library is required to run CommuniCats.
+The `pandas` library is required to run CommuniCats. To get Pandas, paste `pip install pandas` into the terminal.
 
 # Why you should use CommuniCats
 CommuniCats is useful for communicating data between different files. Yes, you could just put all the data in one file, but then where is the orginazation in that?
