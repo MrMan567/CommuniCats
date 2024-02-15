@@ -7,6 +7,9 @@ FYI, CommuniCats is under the GNU GPL 3.0 License.
 IPC is a method to communicate variables between different processes. For example, A has a variable x. B needs to know x, but x changes over time in A.
 An import statement would only run A, but we want to run the two files in parallel. With an IPC, we would make A send x to B when B needs x.
 
+# Dependencys
+The `pandas` library is required to run CommuniCats.
+
 # Why you should use CommuniCats
 CommuniCats is useful for communicating data between different files. Yes, you could just put all the data in one file, but then where is the orginazation in that?
 
